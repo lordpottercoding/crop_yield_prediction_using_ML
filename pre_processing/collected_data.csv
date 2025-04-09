@@ -1,0 +1,184 @@
+﻿,,,,,,,,kharif season,,,Rabi Season,,,,,,,
+Name of the Zone,District ,Soil Type,Crop,Annual Rainfall (mm),Min-Temperature(Degrees Celsius),Max-Temperature(Degrees Celsius),Year,Area(Hectare)k,Production (Tonnes)k,Yield (Tonne/Hectare)k,Area(Hectare),Production (Tonnes),Yield (Tonne/Hectare),Market Price(max),Market price (min),Average Market price,"Area Irrigated more than once
+More than Once",Gross area irrigated
+Northern Telangana Zone,Adilabad,"Black Soil, Red Soil, Sandy",Soyabean,1162,15.7,39.9,2022-2023,54555,86361,1.58,55,61,1.11,"
+5004.20",4576.2,4576.2,264915,246930
+Northern Telangana Zone,Adilabad,"Black Soil, Red Soil, Sandy",Cotton,1162,15.7,39.9,2022-2023,150384,476806,3.17,9,29,3.22,7461.84,7172.37,7317.105,264915,246930
+Northern Telangana Zone,Adilabad,"Black Soil, Red Soil, Sandy",Maize,1162,15.7,39.9,2022-2023,1002,4563,4.55,5787,34091,5.89,2128.1,2098.1,2113.1,264915,246930
+Northern Telangana Zone,Adilabad,"Black Soil, Red Soil, Sandy",Sorghum,1162,15.7,39.9,2022-2023,1199,504,0.42,15699,22983,1.46,2920.75,2920.75,2920.75,264915,246930
+Northern Telangana Zone,Adilabad,"Black Soil, Red Soil, Sandy",Red Gram,1162,15.7,39.9,2022-2023,4,6,1.5,43620,70054,1.61,7192.33,6955.67,7074,264915,246930
+Northern Telangana Zone,Adilabad,"Black Soil, Red Soil, Sandy",rice,1162,15.7,39.9,2022-2023,671,2347,3.5,197,679,3.45,2500,2500,2500,264915,246930
+Northern Telangana Zone,Adilabad,"Black Soil, Red Soil, Sandy",wheat,1162,15.7,39.9,2022-2023,21,43,2.05,1236,2559,2.07,2424.33,2215,2319.665,264915,246930
+Northern Telangana Zone,Adilabad,"Black Soil, Red Soil, Sandy",Sesame,1162,15.7,39.9,2022-2023,0,0,0,216,104,0.48,10411,10211,10311,264915,246930
+Northern Telangana Zone,Adilabad,"Black Soil, Red Soil, Sandy",groundnut,1162,15.7,39.9,2022-2023,2,5,2.5,357,825,2.31,5938.5,5938.5,5938.5,264915,246930
+Northern Telangana Zone,Adilabad,"Black Soil, Red Soil, Sandy",onion,1162,15.7,39.9,2022-2023,0,0,0,1,26,26,5000,5000,5000,264915,246930
+Central Telangana Zone,Bhadradri Kothagudem,"Clayey Soil, Alluvial Soil",Rice,1213,18.3,37.2,2022-2023,66484,230699,3.47,25261,90258,3.57,2300,2300,2300,331433,331433
+Central Telangana Zone,Bhadradri Kothagudem,"Clayey Soil, Alluvial Soil",Cotton,1213,18.3,37.2,2022-2023,68275,236954,3.47,59,205,3.47,7200,7200,7200,331433,331433
+Northern Telangana Zone,Jagtial,"Black Soil, Red Soil",Sesame,1018,16.2,39.3,2022-2023,0,0,0,4862,3812,0.78,9689,9689,9689,727211,738953
+Northern Telangana Zone,Jagtial,"Black Soil, Red Soil",Red Gram,1018,16.2,39.3,2022-2023,0,0,0,108,222,2.06,6659,3500,5079.5,727211,738953
+Northern Telangana Zone,Jagtial,"Black Soil, Red Soil",Turmeric,1018,16.2,39.3,2022-2023,5943,57481,9.67,0,0,0,8181,8181,8181,727211,738953
+Northern Telangana Zone,Jagtial,"Black Soil, Red Soil",Rice,1018,16.2,39.3,2022-2023,122197,441253,3.61,120927,437272,3.62,2203,2203,2203,727211,738953
+Northern Telangana Zone,Jagtial,"Black Soil, Red Soil",Maize,1018,16.2,39.3,2022-2023,18869,121120,6.42,9877,69337,7.02,2272,1965,2118.5,727211,738953
+Central Telangana Zone,Jangaon,"Black Soil, Red Soil, Clayey Soil",Green Gram,858,17.4,38.8,2022-2023,487,239,0.49,22,5,0.23,5511,5511,5511,451775,451775
+Central Telangana Zone,Jangaon,"Black Soil, Red Soil, Clayey Soil",Groundnut,858,17.4,38.8,2022-2023,551,1564,2.84,1113,4835,4.34,6625,5401,6013,451775,451775
+Central Telangana Zone,Jangaon,"Black Soil, Red Soil, Clayey Soil",Maize,858,17.4,38.8,2022-2023,1637,8182,5,3741,22027,5.89,2271,1901,2086,451775,451775
+Central Telangana Zone,Jangaon,"Black Soil, Red Soil, Clayey Soil",Rice,858,17.4,38.8,2022-2023,86366,250720,2.9,78000,168558,2.16,206,206,206,451775,451775
+Central Telangana Zone,Jangaon,"Black Soil, Red Soil, Clayey Soil",Red Gram,858,17.4,38.8,2022-2023,4,3,0.75,8,5,0.63,7550,7550,7550,451775,451775
+Central Telangana Zone,Jayashankar Bhupalpally,"Black Soil, Red Soil, Clayey Soil",Rice,1185,17.2,38.3,2022-2023,44401,144436,3.25,34104,105484,3.09,2040,2040,2040,268832,268832
+Central Telangana Zone,Jayashankar Bhupalpally,"Black Soil, Red Soil, Clayey Soil",Cotton,1185,17.2,38.3,2022-2023,40889,164037,4.01,13,52,4,6380,6380,6380,268832,268832
+Central Telangana Zone,Jayashankar Bhupalpally,"Black Soil, Red Soil, Clayey Soil",Red Gram,1185,17.2,38.3,2022-2023,0,0,0,12,19,1.58,6600,6600,6600,268832,268832
+Central Telangana Zone,Jayashankar Bhupalpally,"Black Soil, Red Soil, Clayey Soil",Dry Chillies,1185,17.2,38.3,2022-2023,6554,27350,4.17,515,2182,4.24,16494.7,12404.5,14449.6,268832,268832
+Central Telangana Zone,Jayashankar Bhupalpally,"Black Soil, Red Soil, Clayey Soil",Maize,1185,17.2,38.3,2022-2023,85,387,4.55,4464,31494,7.06,1962,1962,1962,268832,268832
+Central Telangana Zone,Jayashankar Bhupalpally,"Black Soil, Red Soil, Clayey Soil",Green Gram,1185,17.2,38.3,2022-2023,15,13,0.87,23,26,1.13,7755,7755,7755,268832,268832
+Southern Telangana Zone,Jogulamba Gadwal,"Black Soil, Red Soil, Sandy Loam",Red Gram,606,17.7,38.9,2022-2023,0,0,0,6200,9164,1.48,7059,5819,6439,439638,440816
+Southern Telangana Zone,Jogulamba Gadwal,"Black Soil, Red Soil, Sandy Loam",Castor,606,17.7,38.9,2022-2023,500,451,0.9,1131,1492,1.32,5711,5519,5615,439638,440816
+Southern Telangana Zone,Jogulamba Gadwal,"Black Soil, Red Soil, Sandy Loam",Groundnut,606,17.7,38.9,2022-2023,2269,4967,2.19,6572,13387,2.04,6349,2729,4539,439638,440816
+Southern Telangana Zone,Jogulamba Gadwal,"Black Soil, Red Soil, Sandy Loam",Rice,606,17.7,38.9,2022-2023,4372,18104,4.14,13175,49683,3.77,2369,2369,2369,439638,440816
+Northern Telangana Zone,Kamareddy,"Black Soil, Sandy Loam, Clayey Soil",Green Gram,989,16.2,38.7,2022-2023,2560,2025,0.79,2,2,1,7373,7373,7373,603491,649486
+Northern Telangana Zone,Kamareddy,"Black Soil, Sandy Loam, Clayey Soil",Red Gram,989,16.2,38.7,2022-2023,0,0,0,35633,55873,1.57,7029,6809,6919,603491,649486
+Northern Telangana Zone,Kamareddy,"Black Soil, Sandy Loam, Clayey Soil",Soyabean,989,16.2,38.7,2022-2023,36290,49572,1.37,666,1036,1.56,3912,3912,3912,603491,649486
+Northern Telangana Zone,Kamareddy,"Black Soil, Sandy Loam, Clayey Soil",Maize,989,16.2,38.7,2022-2023,30149,133228,4.42,15398,97177,6.31,2407,2407,2407,603491,649486
+Northern Telangana Zone,Kamareddy,"Black Soil, Sandy Loam, Clayey Soil",Sorghum(white),989,16.2,38.7,2022-2023,20,14,0.7,7790,30630,3.93,1805,1805,1805,603491,649486
+Northern Telangana Zone,Karimnagar,"Black Soil, Red Soil",Rice,902,16.9,38.9,2022-2023,110266,359357,3.26,109804,346432,3.16,2207.05,2198.64,2202.845,599419,599419
+Northern Telangana Zone,Karimnagar,"Black Soil, Red Soil",Red Gram,902,16.9,38.9,2022-2023,0,0,0,19,20,1.05,5750.67,4751.67,5251.17,599419,599419
+Northern Telangana Zone,Karimnagar,"Black Soil, Red Soil",Green Gram,902,16.9,38.9,2022-2023,50,25,0.5,16,11,0.69,7495.5,7495.5,7495.5,599419,599419
+Northern Telangana Zone,Karimnagar,"Black Soil, Red Soil",Sesame,902,16.9,38.9,2022-2023,0,0,0,13,10,0.77,10359,10359,10359,599419,599419
+Northern Telangana Zone,Karimnagar,"Black Soil, Red Soil",Cotton,902,16.9,38.9,2022-2023,20928,75341,3.6,48,173,3.6,7246,6825.95,7035.975,599419,599419
+Northern Telangana Zone,Karimnagar,"Black Soil, Red Soil",Maize,902,16.9,38.9,2022-2023,1743,8072,4.63,8070,47831,5.93,2205.2,2139.05,2172.125,599419,599419
+Northern Telangana Zone,Karimnagar,"Black Soil, Red Soil",Turmeric,902,16.9,38.9,2022-2023,22,165,7.5,0,0,0,10959.86,8627.29,9793.575,599419,599419
+Northern Telangana Zone,Karimnagar,"Black Soil, Red Soil",Castor ,902,16.9,38.9,2022-2023,0,0,0,3,4,1.33,2000,1000,1500,599419,599419
+Northern Telangana Zone,Karimnagar,"Black Soil, Red Soil",Soyabean,902,16.9,38.9,2022-2023,3,5,1.67,0,0,0,4014.5,4014.5,4014.5,599419,599419
+Northern Telangana Zone,Karimnagar,"Black Soil, Red Soil",groundnut,902,16.9,38.9,2022-2023,24,58,2.42,230,436,1.9,3501,3501,3501,599419,599419
+Central Telangana Zone,Khammam,"Black Soil, Clayey Soil, Alluvial Soil",Rice,1051,16.9,37.6,2022-2023,117343,411639,3.51,86958,299309,3.44,2266.79,2204.42,2235.605,872160,872160
+Central Telangana Zone,Khammam,"Black Soil, Clayey Soil, Alluvial Soil",Maize,1051,16.9,37.6,2022-2024,1202,5964,4.96,36921,233082,6.31,2223.08,2131.83,2177.455,872160,872160
+Central Telangana Zone,Khammam,"Black Soil, Clayey Soil, Alluvial Soil",Cotton,1051,16.9,37.6,2022-2023,94628,281101,2.97,59,175,2.97,6692.5,6330,6511.25,872160,872160
+Central Telangana Zone,Khammam,"Black Soil, Clayey Soil, Alluvial Soil",Red Gram,1051,16.9,37.6,2022-2023,0,0,0,15,24,1.6,7400,7225,7312.5,872160,872160
+Central Telangana Zone,Khammam,"Black Soil, Clayey Soil, Alluvial Soil",Dry Chillies,1051,16.9,37.6,2022-2023,28085,100039,3.56,90,193,2.14,3600,3000,3300,872160,872160
+Central Telangana Zone,Khammam,"Black Soil, Clayey Soil, Alluvial Soil",Green Gram,1051,16.9,37.6,2022-2023,4186,2700,0.65,1400,1333,0.95,7650,6750,7200,872160,872160
+Central Telangana Zone,Khammam,"Black Soil, Clayey Soil, Alluvial Soil",Cowpea,1051,16.9,37.6,2022-2025,8,6,0.75,87,78,0/90,7100,7100,7100,872160,872160
+Central Telangana Zone,Khammam,"Black Soil, Clayey Soil, Alluvial Soil",Groundnut,1051,16.9,37.6,2022-2026,54,130,2.41,223,557,2.5,6525,6425,6475,872160,872160
+Central Telangana Zone,Khammam,"Black Soil, Clayey Soil, Alluvial Soil",Sunflower,1051,16.9,37.6,2022-2028,0,0,0,18,34,4.89,6000,6300,6150,872160,872160
+Northern Telangana Zone,Komaram Bheem Asifabad,"Black Soil, Red Soil, Sandy Loam",Soyabean,1189,16.9,39.5,2022-2023,3906,4754,1.22,17,22,1.29,5200,5000,5100,86569,86569
+Northern Telangana Zone,Komaram Bheem Asifabad,"Black Soil, Red Soil, Sandy Loam",Cotton,1189,16.9,39.5,2022-2023,129158,409507,3.17,15,48,3.2,7500,7200,7350,86569,86569
+Northern Telangana Zone,Komaram Bheem Asifabad,"Black Soil, Red Soil, Sandy Loam",Red Gram,1189,16.9,39.5,2022-2023,0,0,0,3188,4205,1.32,7700,7600,7650,86569,86569
+Northern Telangana Zone,Komaram Bheem Asifabad,"Black Soil, Red Soil, Sandy Loam",maize,1189,16.9,39.5,2022-2023,365,1662,4.55,937,4725,5.04,2300,2300,2300,86569,86569
+Central Telangana Zone,Mahabubabad,"Red Soil, Sandy Loam, Clayey Soil",Cotton,1047,16.9,38.7,2022-2023,39058,118093,3.02,23,70,3.04,7774,5858,6816,482742,482742
+Central Telangana Zone,Mahabubabad,"Red Soil, Sandy Loam, Clayey Soil",Dry Chillies,1047,16.9,38.7,2022-2023,22705,84077,3.7,6,31,5.17,15909,10529,13219,482742,482742
+Central Telangana Zone,Mahabubabad,"Red Soil, Sandy Loam, Clayey Soil",Black Gram,1047,16.9,38.7,2022-2023,9,6,0.67,223,197,0.88,7502,6252,6877,482742,482742
+Central Telangana Zone,Mahabubabad,"Red Soil, Sandy Loam, Clayey Soil",Groundnut,1047,16.9,38.7,2022-2024,37,83,2.24,280,556,1.99,6052,2356,4204,482742,482742
+Central Telangana Zone,Mahabubabad,"Red Soil, Sandy Loam, Clayey Soil",Cowpea,1047,16.9,38.7,2022-2025,22,16,0.76,838,503,0.6,7702,7566,7634,482742,482742
+Central Telangana Zone,Mahabubabad,"Red Soil, Sandy Loam, Clayey Soil",maize,1047,16.9,38.7,2022-2026,22030,90720,4.12,18423,119753,6.5,2136,1525,1830.5,482742,482742
+Central Telangana Zone,Mahabubabad,"Red Soil, Sandy Loam, Clayey Soil",Green Gram,1047,16.9,38.7,2022-2027,1185,571,0.48,1033,1056,1.02,6052,2356,4204,482742,482742
+Southern Telangana Zone,Mahbubnagar,"Red Soil, Sandy Loam",Bengal Gram,655,16.9,38.6,2022-2022,9,6,0.67,223,197,0.88,6536.33,5203,5869.665,368610,370697
+Southern Telangana Zone,Mahbubnagar,"Red Soil, Sandy Loam",Groundnut,655,16.9,38.6,2022-2023,18,43,2.39,4709,8895,1.89,6959,4009,5484,368610,370697
+Southern Telangana Zone,Mahbubnagar,"Red Soil, Sandy Loam",Red Gram,655,16.9,38.6,2022-2023,0,0,0,2,3,1.5,6784.17,6067.25,6425.71,368610,370697
+Southern Telangana Zone,Mahbubnagar,"Red Soil, Sandy Loam",Black Gram,655,16.9,38.6,2022-2024,20,14,0.7,24,38,1.5,6327.33,5688.33,6007.83,368610,370697
+Southern Telangana Zone,Mahbubnagar,"Red Soil, Sandy Loam",Castor,655,16.9,38.6,2022-2023,407,148,0.36,228,258,1.13,5653,5529.9,5591.45,368610,370697
+Southern Telangana Zone,Mahbubnagar,"Red Soil, Sandy Loam",Sorghum,655,16.9,38.6,2022-2023,5706,3526,0.62,173,357,2.06,2261.6,2135.4,2198.5,368610,370697
+Southern Telangana Zone,Mahbubnagar,"Red Soil, Sandy Loam",Maize,655,16.9,38.6,2022-2024,11678,38000,3.25,1962,13591,6.93,2298.93,2136.71,2217.82,368610,370697
+Southern Telangana Zone,Mahbubnagar,"Red Soil, Sandy Loam",Rice,655,16.9,38.6,2022-2023,85844,289981,3.38,59454,209694,3.53,2381.13,2237.31,2309.22,368610,370697
+Southern Telangana Zone,Mahbubnagar,"Red Soil, Sandy Loam",Cotton,655,16.9,38.6,2022-2023,42574,110192,2.59,3,8,2.67,6411.43,5928.57,6170,368610,370697
+Southern Telangana Zone,Mahbubnagar,"Red Soil, Sandy Loam",Cowpea,1092,16.9,38.7,2022-2023,4,102,25.5,0,0,0,6469.5,6095.6,6282.55,368610,370697
+Northern Telangana Zone,Mancherial,"Black Soil, Red Soil",Dry Chillies,1092,16.9,38.7,2022-2023,390,2420,6.21,166,844,5.08,2500,2500,2500,209088,263511
+Northern Telangana Zone,Mancherial,"Black Soil, Red Soil",Rice,1092,16.9,38.7,2022-2023,63784,194350,3.05,41820,136291,3.26,2600,2600,2600,209088,263511
+Northern Telangana Zone,Mancherial,"Black Soil, Red Soil",Cotton,1092,16.9,38.7,2022-2023,67599,179734,2.66,67,178,2.66,7521,7220,7370.5,209088,263511
+Central Telangana Zone,Medak,"Sandy Loam, Red Soil",Green Gram,847,16.9,38.5,2022-2023,627,331,0.53,0,0,0,7322,7322,7322,569906,573327
+Central Telangana Zone,Medak,"Sandy Loam, Red Soil",Bengal Gram,847,16.9,38.5,2022-2023,3,3,1,349,304,0.87,5626.33,5051,5338.665,569906,573327
+Central Telangana Zone,Medak,"Sandy Loam, Red Soil",Red Gram,847,16.9,38.5,2022-2023,3,3,1,349,304,0.87,7245.6,6367.2,6806.4,569906,573327
+Central Telangana Zone,Medak,"Sandy Loam, Red Soil",Cowpea,847,16.9,38.5,2022-2024,2,1,0.5,3,3,1,7316.5,7138.5,7227.5,569906,573327
+Central Telangana Zone,Medak,"Sandy Loam, Red Soil",Castor,847,16.9,38.5,2022-2025,9,6,0.67,4,5,1.25,5111,5111,5111,569906,573327
+Central Telangana Zone,Medak,"Sandy Loam, Red Soil",Black Gram,847,16.9,38.5,2022-2025,257,138,0.54,4,6,1.5,6523.5,5945,6234.25,569906,573327
+Central Telangana Zone,Medak,"Sandy Loam, Red Soil",Cotton,847,16.9,38.5,2022-2023,17917,48060,2.68,16,43,2.69,7050,7000,7025,569906,573327
+Central Telangana Zone,Medak,"Sandy Loam, Red Soil",Groundnut,847,16.9,38.5,2022-2024,7,17,2.43,46,113,2.46,4948,4948,4948,569906,573327
+Central Telangana Zone,Medak,"Sandy Loam, Red Soil",Dry Chillies,847,16.9,38.5,2022-2025,6,22,3.67,6,31,5.17,16500,14004,15252,569906,573327
+Central Telangana Zone,Medak,"Sandy Loam, Red Soil",Maize,847,16.9,38.5,2022-2023,2136,5338,2.5,1362,7551,5.54,2289.3,2252,2270.65,569906,573327
+Central Telangana Zone,Medak,"Sandy Loam, Red Soil",Sorghum,847,16.9,38.5,2022-2023,521,46909,90.04,0,0,0,2818.17,2653.17,2735.67,569906,573327
+Southern Telangana Zone,Medchal Malkajgiri,"Red Soil, Sandy Loam",Maize,795,16.9,38.5,2022-2023,159,210,1.32,119,775,6.51,2090,2090,2090,44022,44022
+Southern Telangana Zone,Medchal Malkajgiri,"Red Soil, Sandy Loam",Rice,795,16.9,38.5,2022-2023,7384,29514,4,5644,20364,3.61,2183,2183,2183,44022,44022
+Central Telangana Zone,Mulugu,"Black Soil, Clayey Soil",Maize,1185,17.2,38.3,2022-2026,394,1230,3.12,2048,12945,6.32,1962,1962,1962,177206,177206
+Central Telangana Zone,Mulugu,"Black Soil, Clayey Soil",Rice,1185,17.2,38.3,2022-2027,40505,122285,3.02,19777,66767,3.38,2203,2200,2201,177206,177206
+Central Telangana Zone,Mulugu,"Black Soil, Clayey Soil",Cotton,1185,17.2,38.3,2022-2028,11162,32370,2.9,20,58,2.9,7070,6500,6785,177206,177206
+Southern Telangana Zone,Nagarkurnool,"Red Soil, Sandy Loam",Red Gram,677,17.6,38.6,2022-2023,1049,778,0.74,586,645,1.1,7089,6416,6752.5,489852,489852
+Southern Telangana Zone,Nagarkurnool,"Red Soil, Sandy Loam",Groundnut,677,17.6,38.6,2022-2024,154,339,2.2,47682,120922,2.54,6469,4259,5364,489852,489852
+Southern Telangana Zone,Nagarkurnool,"Red Soil, Sandy Loam",Castor,677,17.6,38.6,2022-2025,67,20,0.3,644,609,0.95,5355,5257,5306,489852,489852
+Southern Telangana Zone,Nagarkurnool,"Red Soil, Sandy Loam",Black Gram,677,17.6,38.6,2022-2027,36,47,1.31,5576,7143,1.28,8528,8089,8308.5,489852,489852
+Southern Telangana Zone,Nagarkurnool,"Red Soil, Sandy Loam",Cotton,677,17.6,38.6,2022-2023,141458,327850,2.32,91,211,2.32,5355,5257,5306,489852,489852
+Southern Telangana Zone,Nagarkurnool,"Red Soil, Sandy Loam",Green Gram,677,17.6,38.6,2022-2023,15,10,0.67,43,50,1.16,7351,7351,7351,489852,489852
+Southern Telangana Zone,Nagarkurnool,"Red Soil, Sandy Loam",Minor Millets,677,17.6,38.6,2022-2023,6,6,1,0,0,0,3889,3889,3889,489852,489852
+Southern Telangana Zone,Nagarkurnool,"Red Soil, Sandy Loam",Maize,677,17.6,38.6,2022-2023,14906,66034,4.43,8478,45120,5.32,2414,2414,2414,489852,489852
+Southern Telangana Zone,Nagarkurnool,"Red Soil, Sandy Loam",Rice,677,17.6,38.6,2022-2023,49811,164476,3.3,62949,219251,3.48,2601,2558,2579.5,489852,489852
+Southern Telangana Zone,Nalgonda,"Red Soil, Sandy Loam",Castor,702,18.1,38.4,2022-2023,3,2,0.67,101,123,1.22,5172,5172,5172,1142039,1142039
+Southern Telangana Zone,Nalgonda,"Red Soil, Sandy Loam",Red Gram,702,18.1,38.4,2022-2023,1,2,2,19,30,1.58,7769.5,6473.75,7121.625,1142039,1142039
+Southern Telangana Zone,Nalgonda,"Red Soil, Sandy Loam",Black Gram,702,18.1,38.4,2022-2024,30,21,0.7,22,35,1.59,6593,6593,6593,1142039,1142039
+Southern Telangana Zone,Nalgonda,"Red Soil, Sandy Loam",Groundnut,702,18.1,38.4,2022-2025,27,39,1.44,8414,19571,2.33,6759,4634,5696.5,1142039,1142039
+Southern Telangana Zone,Nalgonda,"Red Soil, Sandy Loam",Cowpea,702,18.1,38.4,2022-2026,0,0,0,204,184,0.9,6009,5750,5879.5,1142039,1142039
+Southern Telangana Zone,Nalgonda,"Red Soil, Sandy Loam",Cotton,702,18.1,38.4,2022-2023,276238,589849,2.14,45,96,2.13,5352.86,6102.57,5727.715,1142039,1142039
+Southern Telangana Zone,Nalgonda,"Red Soil, Sandy Loam",Sorghum,702,18.1,38.4,2022-2023,78,53,0.68,250,516,2.06,4706,4706,4706,1142039,1142039
+Southern Telangana Zone,Nalgonda,"Red Soil, Sandy Loam",Green Gram,702,18.1,38.4,2022-2023,44,39,0.89,508,765,1.51,6764.5,5922.5,6343.5,1142039,1142039
+Southern Telangana Zone,Nalgonda,"Red Soil, Sandy Loam",Maize,702,18.1,38.4,2022-2023,25,114,4.56,132,859,6.51,2061.75,1976.25,2019,1142039,1142039
+Southern Telangana Zone,Nalgonda,"Red Soil, Sandy Loam",Rice,702,18.1,38.4,2022-2023,204092,684116,3.35,225262,837749,3.72,2060,2060,2060,1142039,1142039
+Northern Telangana Zone,Nirmal,"Black Soil, Red Soil, Sandy Loam",Red Gram,1060,15.9,39.2,2022-2023,1,2,2,27370,44312,1.62,7277,6767,7022,461579,461579
+Northern Telangana Zone,Nirmal,"Black Soil, Red Soil, Sandy Loam",Turmeric,1060,15.9,39.2,2022-2023,4773,35144,7.36,2,15,7.5,10456,7171,8813.5,461579,461579
+Northern Telangana Zone,Nirmal,"Black Soil, Red Soil, Sandy Loam",wheat,1060,15.9,39.2,2022-2023,0,0,0,255,562,2.2,2504,2011,2257.5,461579,461579
+Northern Telangana Zone,Nirmal,"Black Soil, Red Soil, Sandy Loam",Sorghum,1060,15.9,39.2,2022-2023,16,11,0.69,2606,5306,2.04,2323,2323,2323,461579,461579
+Northern Telangana Zone,Nirmal,"Black Soil, Red Soil, Sandy Loam",Sesame,1060,15.9,39.2,2022-2023,0,0,0,2414,1523,0.63,10159,9111,9635,461579,461579
+Northern Telangana Zone,Nirmal,"Black Soil, Red Soil, Sandy Loam",Maize,1060,15.9,39.2,2022-2023,11270,52924,4.7,33926,278329,8.2,2000,2000,2000,461579,461579
+Northern Telangana Zone,Nirmal,"Black Soil, Red Soil, Sandy Loam",Cotton,1060,15.9,39.2,2022-2023,57672,199817,3.46,1,3,3,7421,6600,7010.5,461579,461579
+Northern Telangana Zone,Nirmal,"Black Soil, Red Soil, Sandy Loam",Soyabean,1060,15.9,39.2,2022-2023,46987,85939,1.83,44,56,1.27,4129,3789,3959,461579,461579
+Northern Telangana Zone,Nizamabad,"Black Soil, Sandy Loam",Cotton,991,16,39,2022-2023,829,2277,2.75,2,5,2.5,6641.67,6641.67,6641.67,629985,966995
+Northern Telangana Zone,Nizamabad,"Black Soil, Sandy Loam",Soyabean,991,16,39,2022-2023,23796,43904,1.85,324,156,0.48,4350.75,4265.25,4308,629985,966995
+Northern Telangana Zone,Nizamabad,"Black Soil, Sandy Loam",Turmeric,991,16,39,2022-2023,8868,53784,6.06,1,6,6,11389,9000,10194.5,629985,966995
+Northern Telangana Zone,Nizamabad,"Black Soil, Sandy Loam",Rice,991,16,39,2022-2023,169235,676094,4,161805,629421,3.89,2117.5,2114.64,2116.07,629985,966995
+Northern Telangana Zone,Nizamabad,"Black Soil, Sandy Loam",Red Gram,991,16,39,2022-2023,0,0,0,8627,14709,1.7,2060,2040,2050,629985,966995
+Northern Telangana Zone,Nizamabad,"Black Soil, Sandy Loam",sesame,991,16,39,2022-2023,0,0,0,5201,4280,0.82,11510,10200,10855,629985,966995
+Northern Telangana Zone,Nizamabad,"Black Soil, Sandy Loam",Maize,991,16,39,2022-2023,15183,89595,5.9,9694,82128,8.47,2155.5,2155.5,2155.5,629985,966995
+Northern Telangana Zone,Nizamabad,"Black Soil, Sandy Loam",groundnut ,991,16,39,2022-2023,97,232,2.39,6,15,2.5,11700,11700,11700,629985,966995
+Northern Telangana Zone,Nizamabad,"Black Soil, Sandy Loam",onion,991,16,39,2022-2023,25,268,10.72,101,2385,23.61,900,900,900,629985,966995
+Northern Telangana Zone,Nizamabad,"Black Soil, Sandy Loam",sunflower,991,16,39,2022-2023,0,0,0,2187,3571,1.63,4512,3751,4131.5,629985,966995
+Northern Telangana Zone,Peddapalli,"Black Soil, Red Soil",Rice,1059,16.9,39,2022-2023,86696,301789,3.48,83904,323030,3.85,2300,2300,2300,484694,484694
+Northern Telangana Zone,Peddapalli,"Black Soil, Red Soil",Cotton,1059,16.9,39,2022-2023,27134,104386,3.85,3,12,4,7161,6009,6585,484694,484694
+Northern Telangana Zone,Peddapalli,"Black Soil, Red Soil",Maize,1059,16.9,39,2022-2023,375,2277,6.07,4723,33425,7.08,1962,1962,1962,484694,484694
+Northern Telangana Zone,Rajanna Sircilla,"Black Soil, Red Soil, Clayey Soil",Red Gram,867,16.5,38.8,2022-2023,0,0,0,152,170,1.12,2060,2040,2050,365607,365607
+Northern Telangana Zone,Rajanna Sircilla,"Black Soil, Red Soil, Clayey Soil",Cotton,867,16.5,38.8,2022-2023,23297,90447,3.88,8,31,3.88,6620,6620,6620,365607,365607
+Northern Telangana Zone,Rajanna Sircilla,"Black Soil, Red Soil, Clayey Soil",Maize,867,16.5,38.8,2022-2023,619,3473,5.61,314,2417,7.7,2090,2090,2090,365607,365607
+Southern Telangana Zone,Rangareddy,"Sandy Loam, Red Soil",Red Gram,747,17.2,38.5,2022-2023,5760,3491,0.61,7,8,1.14,8161.83,7781,7971.415,263196,313021
+Southern Telangana Zone,Rangareddy,"Sandy Loam, Red Soil",Groundnut,747,17.2,38.5,2022-2023,2070,1167,0.56,262,503,1.92,6613,5819.5,6216.25,263196,313021
+Southern Telangana Zone,Rangareddy,"Sandy Loam, Red Soil",Sorghum,747,17.2,38.5,2022-2023,2070,1167,0.56,262,503,1.92,2253,2092.71,2172.855,263196,313021
+Southern Telangana Zone,Rangareddy,"Sandy Loam, Red Soil",Rice,747,17.2,38.5,2022-2023,50786,180747,3.56,36605,135182,3.69,2141.71,2035.86,2088.785,263196,313021
+Southern Telangana Zone,Rangareddy,"Sandy Loam, Red Soil",Maize,747,17.2,38.5,2022-2024,29022,100619,3.47,5475,40154,7.33,2253,2092.71,2172.855,263196,313021
+Southern Telangana Zone,Rangareddy,"Sandy Loam, Red Soil",Green Gram,747,17.2,38.5,2022-2025,28,19,0.68,3,3,1,6532.75,6082.75,6307.75,263196,313021
+Southern Telangana Zone,Rangareddy,"Sandy Loam, Red Soil",Black Gram,747,17.2,38.5,2022-2026,26,18,0.69,0,0,0,6005,3511,4758,263196,313021
+Central Telangana Zone,Siddipet,"Black Soil, Red Soil",Cowpea,779,16.8,38.6,2022-2023,62,45,0.73,142,178,1.25,7023,6758,6890.5,800250,800294
+Central Telangana Zone,Siddipet,"Black Soil, Red Soil",Castor,779,16.8,38.6,2022-2023,51,21,0.68,7,9,1.29,5111,5111,5111,800250,800294
+Central Telangana Zone,Siddipet,"Black Soil, Red Soil",Maize,779,16.8,38.6,2022-2023,15072,76325,5.06,6895,34978,5.07,2315,2251,2283,800250,800294
+Central Telangana Zone,Siddipet,"Black Soil, Red Soil",Red Gram,779,16.8,38.6,2022-2023,1,1,1,1278,1668,1.31,6615,6212,6413.5,800250,800294
+Central Telangana Zone,Siddipet,"Black Soil, Red Soil",Green Gram,779,16.8,38.6,2022-2023,69,41,0.59,12,12,1,7452,7452,7452,800250,800294
+Central Telangana Zone,Siddipet,"Black Soil, Red Soil",Rice,779,16.8,38.6,2022-2023,148181,506186,3.42,141107,428401,3.04,2511,2511,2511,800250,800294
+Central Telangana Zone,Siddipet,"Black Soil, Red Soil",Groundnut,779,16.8,38.6,2022-2027,39,102,2.62,537,1240,2.31,6666,6666,6666,800250,800294
+Southern Telangana Zone,Suryapet,"Red Soil, Sandy Loam, Black Soil",Red Gram,780,18.3,38.2,2022-2023,0,0,0,13,20,1.54,4179,4179,4179,478261,984489
+Southern Telangana Zone,Suryapet,"Red Soil, Sandy Loam, Black Soil",Maize,780,18.3,38.2,2022-2023,5,23,4.6,211,1374,6.51,2123,2123,2123,478261,984489
+Southern Telangana Zone,Suryapet,"Red Soil, Sandy Loam, Black Soil",Cotton,780,18.3,38.2,2022-2023,46816,159174,3.4,9,31,3.44,7300,6029,6664.5,478261,984489
+Southern Telangana Zone,Suryapet,"Red Soil, Sandy Loam, Black Soil",Green Gram,780,18.3,38.2,2022-2023,883,434,0.49,80,42,0.53,7409,6134,6771.5,478261,984489
+Southern Telangana Zone,Vikarabad,"Sandy Loam, Red Soil",Maize,853,853,853,2022-2023,26026,110246,4.24,2752,10708,3.89,2379,1959,2169,285524,286852
+Southern Telangana Zone,Vikarabad,"Sandy Loam, Red Soil",Red Gram,853,853,853,2022-2024,62613,51030,0.82,362,370,1.02,6352,5989,6170.5,285524,286852
+Southern Telangana Zone,Vikarabad,"Sandy Loam, Red Soil",Turmeric,853,853,853,2022-2025,722,9505,13.16,3,39,13,12414,6868,9641,285524,286852
+Southern Telangana Zone,Vikarabad,"Sandy Loam, Red Soil",Black Gram,853,853,853,2022-2026,3878,1834,0.47,5,8,1.6,6555,4923,5739,285524,286852
+Southern Telangana Zone,Vikarabad,"Sandy Loam, Red Soil",Soyabean,853,853,853,2022-2027,1326,1600,1.21,21,27,1.29,5289,5489,5389,285524,286852
+Southern Telangana Zone,Vikarabad,"Sandy Loam, Red Soil",Red Gram,853,17.1,38.5,2022-2023,23,37,1.61,7445,11905,1.6,7179,6828,7003.5,285524,286852
+Southern Telangana Zone,Wanaparthy,"Red Soil, Sandy Loam",Rice,664,17.6,38.8,2022-2023,74092,273770,3.7,66100,219122,3.32,2160,1950,2055,432443,446204
+Southern Telangana Zone,Wanaparthy,"Red Soil, Sandy Loam",Groundnut,664,17.6,38.8,2022-2024,3120,7398,2.37,9174,27439,2.99,6689,5799,6244,432443,446204
+Southern Telangana Zone,Wanaparthy,"Red Soil, Sandy Loam",Maize,664,17.6,38.8,2022-2023,5641,27883,4.94,461,3002,6.51,2261,2261,2261,432443,446204
+Central Telangana Zone,Warangal Rural,"Black Soil, Red Soil, Clayey Soil",Sorghum,1021,17.5,38.5,2022-2023,2,1,0.5,115,237,2.06,3405.5,3405.5,3405.5,453533,453533
+Central Telangana Zone,Warangal Rural,"Black Soil, Red Soil, Clayey Soil",Red Gram,1021,17.5,38.5,2022-2023,0,0,0,27,29,1.07,4218.75,3465.5,3842.125,453533,453533
+Central Telangana Zone,Warangal Rural,"Black Soil, Red Soil, Clayey Soil",green Gram,1021,17.5,38.5,2022-2023,0,0,0,45,84,1.87,6697.5,6233.5,6465.5,453533,453533
+Central Telangana Zone,Warangal Rural,"Black Soil, Red Soil, Clayey Soil",Cotton,1021,17.5,38.5,2022-2023,54785,221718,4.05,117,474,4.05,6466.09,5757.36,6111.725,453533,453533
+Central Telangana Zone,Warangal Rural,"Black Soil, Red Soil, Clayey Soil",Maize,1021,17.5,38.5,2022-2023,5664,30857,5.45,35781,215831,6.03,2270.67,2057.44,2164.055,453533,453533
+Central Telangana Zone,Warangal Urban,"Black Soil, Red Soil, Sandy Loam",Rice,902,17.6,38.9,2022-2023,59900,214861,3.59,54186,209375,3.86,2120.82,1899.76,2010.29,410060,410060
+Central Telangana Zone,Warangal Urban,"Black Soil, Red Soil, Sandy Loam",Cowpea,902,17.6,38.9,2022-2023,37266,139638,3.75,60,225,3.75,6640.67,6023.33,6332,410060,410060
+Central Telangana Zone,Warangal Urban,"Black Soil, Red Soil, Sandy Loam",Castor,902,17.6,38.9,2022-2024,3,2,0.67,0,0,0,5282,5282,5282,410060,410060
+Central Telangana Zone,Warangal Urban,"Black Soil, Red Soil, Sandy Loam",Sorghum,902,17.6,38.9,2022-2025,8,5,0.63,1,2,2,3405.5,3405.5,3405.5,410060,410060
+Central Telangana Zone,Warangal Urban,"Black Soil, Red Soil, Sandy Loam",Soyabean,902,17.6,38.9,2022-2026,85,137,1.61,2,3,1.5,400,400,400,410060,410060
+Central Telangana Zone,Warangal Urban,"Black Soil, Red Soil, Sandy Loam",Black Gram,902,17.6,38.9,2022-2023,1862,9848,5.29,18221,139336,7.65,7552.33,6579.67,7066,410060,410060
+Central Telangana Zone,Warangal Urban,"Black Soil, Red Soil, Sandy Loam",Turmeric,902,17.6,38.9,2022-2023,1,2,2,22,44,2,9325.25,7578.25,8451.75,410060,410060
+Central Telangana Zone,Warangal Urban,"Black Soil, Red Soil, Sandy Loam",Dry Chillies,902,17.6,38.9,2022-2023,1959,10224,5.22,198,1007,5.09,16494.7,12404.5,14449.6,410060,410060
+Southern Telangana Zone,Yadadri Bhuvanagiri,"Red Soil, Sandy Loam",Rice,735,16.9,38.5,2022-2023,45,205,4.56,12,78,6.5,2300,2300,2300,608952,608952
